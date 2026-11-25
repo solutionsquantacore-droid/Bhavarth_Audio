@@ -1,102 +1,117 @@
 [
   {
-    "name:": "Hanuman Chalisa",
+    "name": "Hanuman Chalisa",
     "hindi_name": "हनुमान चालीसा",
     "audio_url": "https://solutionsquantacore-droid.github.io/Bhavarth_Audio/audio/hanuman_chalisa.mp3"
   },
   {
-    "name:": "Bajrang Baan",
+    "name": "Bajrang Baan",
     "hindi_name": "बजरंग बाण",
     "audio_url": "https://solutionsquantacore-droid.github.io/Bhavarth_Audio/audio/bajrang-baan.mp3"
   },
   {
-    "name:": "Bhairav Chalisa",
+    "name": "Bhairav Chalisa",
     "hindi_name": "भैरव चालीसा",
     "audio_url": "https://solutionsquantacore-droid.github.io/Bhavarth_Audio/audio/bhaira_chalisa.mp3"
   },
   {
-    "name:": "Maa Durga Chalisa",
+    "name": "Maa Durga Chalisa",
     "hindi_name": "माँ दुर्गा चालीसा",
     "audio_url": "https://solutionsquantacore-droid.github.io/Bhavarth_Audio/audio/durga_chalisa.mp3"
   },
   {
-    "name:": "Shri Ganesh Chalisa",
+    "name": "Shri Ganesh Chalisa",
     "hindi_name": "श्री गणेश चालीसा",
     "audio_url": "https://solutionsquantacore-droid.github.io/Bhavarth_Audio/audio/ganesh_chalisa.mp3"
   },
   {
-    "name:": "Ganga Chalisa",
+    "name": "Ganga Chalisa",
     "hindi_name": "माँ गंगा चालीसा",
     "audio_url": "https://solutionsquantacore-droid.github.io/Bhavarth_Audio/audio/ganga-chalisa.mp3"
   },
   {
-    "name:": "Kali Maa Chalisa",
+    "name": "Kali Maa Chalisa",
     "hindi_name": "काली माँ चालीसा",
     "audio_url": "https://solutionsquantacore-droid.github.io/Bhavarth_Audio/audio/kali-maa-chalisa.mp3"
   },
   {
-    "name:": "Maa Lakshmi Chalisa",
+    "name": "Maa Lakshmi Chalisa",
     "hindi_name": "माँ लक्ष्मी चालीसा",
     "audio_url": "https://solutionsquantacore-droid.github.io/Bhavarth_Audio/audio/lakshmi_chalisa.mp3"
   },
   {
-    "name:": "Navgrah Chalisa",
+    "name": "Navgrah Chalisa",
     "hindi_name": "नवग्रह चालीसा",
     "audio_url": "https://solutionsquantacore-droid.github.io/Bhavarth_Audio/audio/navgrah-chalisa.mp3"
   },
   {
-    "name:": "Pretraj Sarkar Chalisa",
+    "name": "Pretraj Sarkar Chalisa",
     "hindi_name": "प्रेतराज सरकार चालीसा",
     "audio_url": "https://solutionsquantacore-droid.github.io/Bhavarth_Audio/audio/pretraj-sarkar-chalisa.mp3"
   },
   {
-    "name:": "Shri Radha Chalisa",
+    "name": "Shri Radha Chalisa",
     "hindi_name": "श्री राधा चालीसा",
     "audio_url": "https://solutionsquantacore-droid.github.io/Bhavarth_Audio/audio/radha-chalisa.mp3"
   },
   {
-    "name:": "Shri Ram Chalisa",
+    "name": "Shri Ram Chalisa",
     "hindi_name": "श्री राम चालीसा",
     "audio_url": "https://solutionsquantacore-droid.github.io/Bhavarth_Audio/audio/ram_chalisa.mp3"
   },
   {
-    "name:": "Sankat Mochan",
+    "name": "Sankat Mochan",
     "hindi_name": "संकट मोचन",
     "audio_url": "https://solutionsquantacore-droid.github.io/Bhavarth_Audio/audio/sankat-mochan.mp3"
   },
   {
-    "name:": "Saptashloki Durga Stotram",
+    "name": "Saptashloki Durga Stotram",
     "hindi_name": "सप्तश्लोकी दुर्गा स्तोत्रम",
     "audio_url": "https://solutionsquantacore-droid.github.io/Bhavarth_Audio/audio/saptashloki-durga-stotram.mp3"
   },
   {
-    "name:": "Shri Shani Chalisa",
+    "name": "Shri Shani Chalisa",
     "hindi_name": "श्री शनि चालीसा",
     "audio_url": "https://solutionsquantacore-droid.github.io/Bhavarth_Audio/audio/shani_chalisa.mp3"
   },
   {
-    "name:": "Shiv Chalisa",
+    "name": "Shiv Chalisa",
     "hindi_name": "शिव चालीसा",
     "audio_url": "https://solutionsquantacore-droid.github.io/Bhavarth_Audio/audio/shiv_chalisa.mp3"
   },
   {
-    "name:": "Shiva Rudrashtakam",
+    "name": "Shiva Rudrashtakam",
     "hindi_name": "शिव रुद्राष्टकम",
     "audio_url": "https://solutionsquantacore-droid.github.io/Bhavarth_Audio/audio/shiva-rudrashtakam.mp3"
   },
   {
-    "name:": "Maa Tulsi Chalisa",
+    "name": "Maa Tulsi Chalisa",
     "hindi_name": "माँ तुलसी चालीसा",
     "audio_url": "https://solutionsquantacore-droid.github.io/Bhavarth_Audio/audio/tulsi_chalisa.mp3"
   },
   {
-    "name:": "Shri Vishnu Chalisa",
+    "name": "Shri Vishnu Chalisa",
     "hindi_name": "श्री विष्णु चालीसा",
     "audio_url": "https://solutionsquantacore-droid.github.io/Bhavarth_Audio/audio/vishnu_chalisa.mp3"
   },
   {
-    "name:": "Shri Balaji Chalisa",
+    "name": "Shri Balaji Chalisa",
     "hindi_name": "श्री बालाजी चालीसा",
     "audio_url": "https://solutionsquantacore-droid.github.io/Bhavarth_Audio/audio/balaji_chalisa.mp3"
+  },
+  {
+    "name": "Poverty Burning Stotra",
+    "hindi_name": "दारिद्र्य दहन शिव स्तोत्र",
+    "audio_url": "https://solutionsquantacore-droid.github.io/Bhavarth_Audio/audio/poverty_burning.mp3"
+  },
+  {
+    "name": "Maa Baglamukhi Chalisa",
+    "hindi_name": "माँ बगलामुखी चालीसा",
+    "audio_url": "https://solutionsquantacore-droid.github.io/Bhavarth_Audio/audio/baglamukhi_chalisa.mp3"
+  },
+  {
+    "name": "Shiv Tandav",
+    "hindi_name": "शिव तांडव",
+    "audio_url": "https://solutionsquantacore-droid.github.io/Bhavarth_Audio/audio/shiv_tandav.mp3"
   }
 ]
